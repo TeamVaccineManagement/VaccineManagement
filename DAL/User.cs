@@ -15,7 +15,7 @@ namespace DAL
         [EmailAddress(ErrorMessage = "Not a valid email id")]
         public string EmailId { get; set; }
 
-        [Required]
+       // [Required]
         [DataType(DataType.Password)]
         public string Password { get; set; }
 
