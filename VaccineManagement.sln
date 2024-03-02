@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccineManagement", "VaccineManagement\VaccineManagement.csproj", "{A64F23AF-65F4-44ED-902E-B4D91A13F368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A8C778D0-7801-4E80-8107-002570CEBA41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64F23AF-65F4-44ED-902E-B4D91A13F368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64F23AF-65F4-44ED-902E-B4D91A13F368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64F23AF-65F4-44ED-902E-B4D91A13F368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64F23AF-65F4-44ED-902E-B4D91A13F368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C778D0-7801-4E80-8107-002570CEBA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C778D0-7801-4E80-8107-002570CEBA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C778D0-7801-4E80-8107-002570CEBA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C778D0-7801-4E80-8107-002570CEBA41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {547F8ABE-A2F0-427D-A7A7-6CC63AC38643}
+	EndGlobalSection
+EndGlobal
